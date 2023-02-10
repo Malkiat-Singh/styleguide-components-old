@@ -32,16 +32,16 @@
   "repository": {
     "type": "git",
     "fullname": "transferwise/styleguide-components",
-    "url": "https://github.com/transferwise/styleguide-components.git"
+    "url": "https://github.com/Malkiat-Singh/styleguide-components.git"
   },
   "keywords": [
     "AngularJS",
     "Neptune"
   ],
   "bugs": {
-    "url": "https://github.com/transferwise/styleguide-components/issues"
+    "url": "https://github.com/Malkiat-Singh/styleguide-components/issues"
   },
-  "homepage": "https://github.com/transferwise/styleguide-components",
+  "homepage": "https://github.com/Malkiat-Singh/styleguide-components",
   "dependencies": {
     "angular": "~1.5.10",
     "commonmark": "^0.29.1",
